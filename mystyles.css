@@ -1,0 +1,28 @@
+body{
+   background-image: url(https://as1.ftcdn.net/v2/jpg/01/35/61/46/1000_F_135614604_L1e25ywNerj68GNJSphCRi4ufvGX9IQK.jpg); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.list{
+   background-color: aliceblue;
+}
+h1{
+   font-family: Arial, Helvetica, sans-serif
+}
+.img-center{
+   display: block;
+}
+.header{
+   top: 0px;
+   display: block;
+   margin: auto;
+}
+.footer{
+   font-size: medium;
+   bottom: 0px;
+}
+.mainstuff{
+   position: 250px;
+   font-family: 'Courier New', Courier, monospace;
+}
